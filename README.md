@@ -10,7 +10,7 @@ Data Analyst: Carolina Hernández Barra
 
 ### Análisis Exploratorio de los Datos (EDA)
 
-En la carpeta [Datasets]() se encuentran los datasets utilizados en este proyecto, los que fueron obtenidos del sitio web [_ENACOM_](https://datosabiertos.enacom.gob.ar/home).
+En la carpeta [Datasets](https://github.com/CaroHernz/PI-Data-Analytics/tree/main/Datasets) se encuentran los datasets utilizados en este proyecto, los que fueron obtenidos del sitio web [_ENACOM_](https://datosabiertos.enacom.gob.ar/home).
 
 ### Elaboración del Dashboard
 Para la visualización de los datos se utilizó Power BI
