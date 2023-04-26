@@ -31,6 +31,6 @@ Los KPIs más relevantes, en base al análisis de datos realizado, son el acceso
 ### Elaboración del Dashboard
 El *dashboard* es una herramienta valiosa para monitorear el rendimiento de una empresa, y en nuestro caso, de éste proyecto, ya que ayuda a identificar áreas de mejora y oportunidades de crecimiento, y asó tomar decisiones informadas para brindar una mejor calidad de servicios y soluciones personalizadas a los clientes, muy relevante hoy en día en el sector de las telecomunicaciones. 
 
-Para la visualización de los datos se utilizó Power BI. [_Dashboard_](https://github.com/CaroHernz/PI-Data-Analytics/blob/main/PI%20Data%20Analytic)
+Para la visualización de los datos se utilizó Power BI. [_Dashboard_](https://github.com/CaroHernz/PI-Data-Analytics/blob/main/PI%20Data%20Analytic.pbix)
 
 ----
